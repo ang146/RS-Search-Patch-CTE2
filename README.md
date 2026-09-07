@@ -1,6 +1,6 @@
 # RS Search Patch
 
-RS Search Patch is a small client-only Forge mod for Minecraft 1.20.1 and Refined Storage 1.12.x.
+RS Search Patch is a small client-only Forge mod for Minecraft 1.20.1 and Refined Storage 1.12.x, and is specificly made for **CTE2** as the modpack contains tons of items and gears with large amount of NBT data, which significantly impact when doing tooltip search using RS.
 
 It makes Refined Storage grid searching smoother in two ways:
 
