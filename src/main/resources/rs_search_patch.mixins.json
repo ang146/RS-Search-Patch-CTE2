@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "rssearchpatch.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "rs_search_patch.refmap.json",
+  "client": [
+    "GridFilterParserMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
